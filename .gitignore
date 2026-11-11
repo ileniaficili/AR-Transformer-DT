@@ -1,0 +1,9 @@
+# Proprietary data and outputs: never commit
+*.csv
+*.xlsx
+*.keras
+results/
+__pycache__/
+.DS_Store
+venv/
+.venv/
